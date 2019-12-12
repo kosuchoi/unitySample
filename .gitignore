@@ -28,6 +28,9 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 
+# test-framework generated scene files
+**/InitTestScene*
+
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
